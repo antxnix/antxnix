@@ -1,5 +1,5 @@
 ## Sobre Mim ##
-- Comprei um livro de Delphi 5 e começei com os estudos de programação.
+- Comprei um livro de Delphi 5 e comecei com os estudos de programação.
 - Escrevi alguns programas com banco de dados em tabelas paradoxx e sentia que podia fazer mais.
 - Escrevi alguns cgi para rodar em servidor web, porém com o alto custo na epoca desisti.
 - Comprei alguns livros de .ASP (active server pages) e gostei, de quebra coloquei alguns sites no antigo Yahoo Geocities
