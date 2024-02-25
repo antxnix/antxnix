@@ -10,3 +10,7 @@
 - Parei com a programação e virou hobby;
 - Recentemente me matriculei no curso de Engenharia de Software e retomei os estudos em programação.
 - Agora estou estudando a evolução dos meus scripts em *php3* pra linguagem **PHP8** \m/
+- Projeto atual ChecklistVirtual
+
+
+[![JGWRXe4.jpg](https://iili.io/JGWRXe4.jpg)](https://freeimage.host/)
